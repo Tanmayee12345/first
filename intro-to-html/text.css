@@ -1,0 +1,45 @@
+.apply-button
+    {
+        background-color:rgb(19, 122, 225);
+        color:white;
+        border:none;
+        height: 39px;
+        width: 260px;
+        border-radius: 39px;
+        font-weight: bold;
+        font-size: 16px;
+        cursor: pointer;
+    }
+.apply-button:hover{
+    opacity: 0.8;
+
+}
+.apply-button:active{
+    opacity: 0.5;
+}
+.title
+{
+    color: black;
+    font-weight: bold;
+    font-size: 36px;
+}
+  .back-button {
+    margin-right: 8px;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    font-size: 16px;
+  }
+
+  .search-result {
+    margin-left: 4px;
+    margin-right: 4px;
+    font-size: 18px;
+  }
+
+  .next-button {
+    margin-left: 8px;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    font-size: 16px;
+  }
+
